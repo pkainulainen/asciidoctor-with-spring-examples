@@ -5,6 +5,7 @@
     <artifactId>asciidoctor-html</artifactId>
     <version>0.1</version>
     <name>Asciidoctor Views</name>
+    <packaging>war</packaging>
     <description>
         This example demonstrates how to can render Asciidoctor documents with
         Spring MVC.
