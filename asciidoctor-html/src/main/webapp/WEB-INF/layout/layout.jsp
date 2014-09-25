@@ -8,7 +8,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="${contextPath}/static/css/bootstrap.css"/>
     <link rel="stylesheet" type="text/css" href="${contextPath}/static/css/bootstrap-theme.css"/>
-    <link rel="stylesheet" type="text/css" href="${contextPath}/static/css/styles.css"/>
     <script type="text/javascript" src="${contextPath}/static/js/jquery-2.1.1.js"></script>
     <script type="text/javascript" src="${contextPath}/static/js/bootstrap.js"></script>
     <sitemesh:write property="head"/>
