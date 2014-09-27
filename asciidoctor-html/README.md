@@ -12,3 +12,7 @@ You can run the unit tests of this project by running the following command at c
 You can run this application by running the following command at command prompt:
 
     mvn clean jetty:run -P dev
+    
+KNOWN ISSUES
+
+* AsciidoctorJ creates an extra stylesheet called asciidoctor.css
