@@ -3,7 +3,7 @@ and render the created HTML in a Spring MVC web application.
 
 You can read the blog post at:
 
-*Not published yet*
+* [Using Asciidoctor with Spring: Rendering Asciidoc Documents with Spring MVC](http://www.petrikainulainen.net/programming/asciidoctor/using-asciidoctor-with-spring-rendering-asciidoc-documents-with-spring-mvc/)
 
 You can run the unit tests of this project by running the following command at command prompt:
 
